@@ -1,0 +1,144 @@
+body {
+  width: 1219px;
+  margin: auto;
+}
+.bgcolor {
+  width: 1219px;
+  margin: auto;
+  background-color: #eeeeee;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 1219px;
+  height: 84px;
+  background: #007765;
+  margin: auto;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  text-align: right;
+}
+header img {
+    padding-left: 55px;
+    padding-top: 20px; 
+    float: left;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.h1image {
+  background-image: url("H1.png");
+  width: 1219px;
+  height: 403px;
+}
+
+h1 {
+  padding-top: 160px;
+  margin-top: 84px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  padding-top: 1em;
+  color: #007765;
+}
+
+.paragraph {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin-bottom: 92px;
+}
+
+#team {
+    margin-bottom: 92px;
+}
+
+.computerimage {
+  background-image: url("computer.png");
+  height: 483px;
+}
+.supercomputer {
+  padding-top: 128px;
+  padding-left: 163px;
+  padding-right: 163px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.ppclogo {
+  float: left;
+  margin-right: 48px;
+  padding-left: 55px;
+}
+
+footer {
+  background-color: #333333;
+  padding-left: 340px;
+  padding-right: 339px;
+  padding-top: 48px;
+  padding-bottom: 68px;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.imageline {
+  display: flex;
+  justify-content: space-around;
+}
+
+figcaption {
+  text-align: center;
+}
+
+figure img {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.fig1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #007765;
+}
+
+.fig2 {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
